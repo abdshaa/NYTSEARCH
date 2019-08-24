@@ -1,4 +1,6 @@
-let searchTerm = `soda`;
+// let searchItem = $(`#search`);
+
+let searchTerm = $(`#search`);
 let searchLimit;
 let printArticle = $(`#articlesHere`);
 let max = 5;
