@@ -1,0 +1,18 @@
+.jumbotron {
+  color: white;
+  background: linear-gradient(
+      217deg,
+      rgba(219, 115, 115, 100),
+      rgba(255, 0, 0, 0) 100%
+    ),
+    linear-gradient(127deg, rgba(0, 255, 0, 100), rgba(0, 255, 0, 0) 100%),
+    linear-gradient(336deg, rgba(0, 0, 255, 100), rgba(0, 0, 255, 0) 100%);
+}
+#footer {
+  text-align: center;
+  font-size: 9pt;
+  margin-top: 10px;
+}
+.textCenter {
+  text-align: center;
+}
